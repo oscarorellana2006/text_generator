@@ -1,0 +1,9 @@
+name: text-generator
+channels:
+  - fastchan
+  - conda-forge
+dependencies:
+  - fastai >=2
+  - voila
+  - voila-material
+  - fastdownload
